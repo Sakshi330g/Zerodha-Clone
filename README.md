@@ -1,7 +1,7 @@
 # Zerodha Clone - Full Stack Trading Platform 🚀
 
  
-*(Replace this with an actual screenshot/GIF of your live app!)*
+
 
 ## 🔗 Quick Links
 
